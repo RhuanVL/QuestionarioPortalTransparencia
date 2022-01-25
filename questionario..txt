@@ -31,7 +31,7 @@ R: Sim, é possível.
 J – É possível identificar a data e o valor das movimentações financeiras do CPGF, em
 todas as movimentações? Ou há movimentações onde não é possível identificar as datas e
 ou valores?
-R: Existe movimentações que por conta de estarem protegidas por sigilo, mostra apenas o valor, porém não mostra a data.
+R: Existe movimentações que por conta de estarem protegidas por sigilo, mostra apenas o valor, porém, não mostra a data.
 
 K (código) – Qual a soma total das movimentações utilizando o CPGF?
 
